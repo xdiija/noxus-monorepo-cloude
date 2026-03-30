@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /home/djalma-leandro/Documents/codes/cloude-v1/backend/storage -name *.php)"
+    ]
+  }
+}
